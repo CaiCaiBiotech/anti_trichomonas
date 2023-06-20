@@ -1,0 +1,4 @@
+params,accuracy,roc_auc,sensitivity,specificity,precision,f1_score
+"{'activation': 'tanh', 'alpha': 0.05, 'hidden_layer_sizes': (150,), 'learning_rate': 'constant', 'solver': 'adam'}",0.7415567765567765,0.808803133273288,0.686045197740113,0.813719806763285,0.8339384308651854,0.7435560675883257
+"{'activation': 'tanh', 'alpha': 0.05, 'hidden_layer_sizes': (150,), 'learning_rate': 'adaptive', 'solver': 'adam'}",0.7415567765567765,0.808803133273288,0.686045197740113,0.813719806763285,0.8339384308651854,0.7435560675883257
+"{'activation': 'tanh', 'alpha': 0.05, 'hidden_layer_sizes': (100,), 'learning_rate': 'constant', 'solver': 'adam'}",0.7301465201465203,0.8072284723928055,0.649322033898305,0.8364251207729468,0.8469767482476455,0.721729266987694
